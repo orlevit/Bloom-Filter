@@ -7,5 +7,5 @@ In Bloom filter: negative answer **<->** the element didn't found in the group a
 In other words, smaller space occupation was obtain rather than better accuracy, Bloom's technique uses a smaller hash area but still eliminates most unnecessary accesses, For instance, a hash area only 15% of the size needed by an ideal error-free hash still eliminates 85% of the disk accesses.
 
 Files:
-- project.pdf - The program examples & explanation.
-- java files  - The files of the project.
+- Project.pdf - The program examples & explanation.
+- Java files  - The files of the project.
